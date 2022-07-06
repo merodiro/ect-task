@@ -1,0 +1,13 @@
+{
+  "name": "ect-task",
+  "version": "1.0.0",
+  "description": "## Setup",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "js:test": "pnpm run test --filter @ect/javascript",
+    "angular:test": "pnpm run test --filter @ect/angular"
+  },
+  "keywords": [],
+  "author": "Amr Gad"
+}
